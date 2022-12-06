@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rrywGu92WvG0W3HxFbyrVrNMtZOeWlqEv7d8CXOgC1h/Zm0d+q1Prs+qc1vdZeUi3HmTEczJr+X6LTxB2kh9Nw==",
+  "dgSpecHash": "7UnZD/e93Dma8US5mr+luRaTcpVptJSJS1oaOlJWV8Ajs2AmTVWm976dFpidFlR0hIY3tk/4QZxKm0aFGpLKEA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\Documents\\codigo\\ApiCartao\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

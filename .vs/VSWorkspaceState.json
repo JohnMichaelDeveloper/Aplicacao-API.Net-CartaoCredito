@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Tests",
+    "\\Tests\\bin",
+    "\\Tests\\bin\\Release",
+    "\\Tests\\bin\\Release\\net5.0",
+    "\\Tests\\bin\\Release\\net5.0\\ref",
+    "\\Tests\\obj",
+    "\\Tests\\obj\\Debug",
+    "\\Tests\\obj\\Debug\\net5.0",
+    "\\Tests\\obj\\Debug\\net5.0\\ref",
+    "\\Tests\\obj\\Release"
+  ],
+  "SelectedNode": "\\Domain\\Entities",
+  "PreviewInSolutionExplorer": false
+}
